@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-AppUIKit/Pods-AppUIKit-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FSCalendar/FSCalendar.framework
+${BUILT_PRODUCTS_DIR}/MJExtension/MJExtension.framework
+${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework
